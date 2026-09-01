@@ -2,8 +2,6 @@
 
 Detects market regimes in Indian equities using **Topological Data Analysis (TDA)** applied to rolling stock correlation networks, covering all 100 historical Nifty-50 constituents from **2008 to 2025**.
 
-> **Status**: Phases 1–3 complete. Phase 4 (regime-conditional TCN forecasting + Adaptive Conformal Intervals) and Phase 5 (portfolio backtest) in progress.
-
 ---
 
 ## What This Does
